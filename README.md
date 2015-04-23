@@ -1,5 +1,5 @@
 # jquery-breaks-angular-es6
-Project showing how inclusion of jquery breaks angular-material when using es6 and jspm.
+Project showing how inclusion of jquery breaks angular's loading of modules with es6/jspm.
 
 # Installation
 
