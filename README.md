@@ -1,4 +1,4 @@
-# jquery-breaks-angular-material
+# jquery-breaks-angular-es6
 Project showing how inclusion of jquery breaks angular-material when using es6 and jspm.
 
 # Installation
